@@ -28,7 +28,8 @@ export default function Page() {
           >
             {/* 폰트 크기나 색깔 코드를 넣을 땐 대괄호를 사용해서 넣어줘야 함 */}
             {/* <strong className="text-[40px] text-[#060]"> */}
-            <strong>Welcome to Acme.</strong> This is the example for the{' '}
+            <strong>Acme에 오신 것을 환영합니다.</strong> This is the example
+            for the{' '}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
