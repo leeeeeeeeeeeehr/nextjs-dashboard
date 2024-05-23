@@ -2,6 +2,8 @@ import { clsx } from 'clsx';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';
 
+// type과 같은 기능
+// interface는 확장시킬 수 있음
 interface Breadcrumb {
   label: string;
   href: string;
